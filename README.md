@@ -1,8 +1,10 @@
 # 🧠 RAG Frontend - Proxy Lens
 
-![Project Logo](https://github.com/SiddarthaKoppaka/rag_frontend/blob/main/public/logo.png)
+<p align="center">
+  <img src="https://github.com/SiddarthaKoppaka/rag_frontend/blob/main/public/Rag%20app%20Logo%20-%20white.png" alt="Project Logo" width="100">
+</p>
 
-> **Proxy Lens** is an AI-powered financial data retrieval and analysis tool that utilizes **Retrieval-Augmented Generation (RAG)** to provide real-time insights into company reports, governance data, and key financial metrics. This is the **frontend** for the Proxy Lens system.
+**Proxy Lens** is an AI-powered financial data retrieval and analysis tool that utilizes **Retrieval-Augmented Generation (RAG)** to provide real-time insights into company reports, governance data, and key financial metrics. This is the **frontend** for the Proxy Lens system.
 
 ---
 

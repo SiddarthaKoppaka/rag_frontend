@@ -1,0 +1,40 @@
+/* Ensure full height for the app */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* The main container must stretch to fit */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 100vh;
+  align-items: center;
+}
+
+/* Ensures the main chat content is properly aligned */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 1200px;
+  margin-top: 1rem;
+}
+
+/* Ensure Chat History and Chat Interface stay aligned */
+.chat-history {
+  flex: 0.3;
+  max-width: 300px;
+}
+
+.chat-interface {
+  flex: 0.7;
+  max-width: 800px;
+}

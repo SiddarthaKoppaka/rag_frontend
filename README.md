@@ -1,4 +1,4 @@
-# 🧠 RAG Frontend - Proxy Lens
+# RAG Frontend - Proxy Lens
 
 <p align="center">
   <img src="https://github.com/SiddarthaKoppaka/rag_frontend/blob/main/public/Rag%20app%20Logo%20-%20white.png" alt="Project Logo" width="100">
@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ **AI-Powered Responses** - Leverages Retrieval-Augmented Generation (RAG) for accurate financial insights.  
-✅ **Dynamic Chat Interface** - Smooth UI for interactive queries.  
-✅ **Historical Chat Logs** - Stores chat history for easy retrieval.  
-✅ **Framer Motion Animations** - Enhances user experience with smooth transitions.  
-✅ **Responsive Design** - Works across desktop and mobile devices.  
+**AI-Powered Responses** - Leverages Retrieval-Augmented Generation (RAG) for accurate financial insights.  
+**Dynamic Chat Interface** - Smooth UI for interactive queries.  
+**Historical Chat Logs** - Stores chat history for easy retrieval.  
+**Framer Motion Animations** - Enhances user experience with smooth transitions.  
+**Responsive Design** - Works across desktop and mobile devices.  
 
 ---
 
-## 🧐 Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, TailwindCSS, Framer Motion  
 - **State Management:** React Hooks  
@@ -27,20 +27,20 @@
 
 ---
 
-## 📚 Installation & Setup
+## Installation & Setup
 
-### **1️⃣ Clone the Repository**
+### **Clone the Repository**
 ```sh
 git clone git@github.com:SiddarthaKoppaka/rag_frontend.git
 cd rag_frontend
 ```
 
-### **2️⃣ Install Dependencies**
+### **Install Dependencies**
 ```sh
 npm install
 ```
 
-### **3️⃣ Run the Development Server**
+### **Run the Development Server**
 ```sh
 npm start
 ```
@@ -48,7 +48,7 @@ This will start the app at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 1. Open the web application.
 2. Ask questions related to financial statements, company governance, and key business metrics.
@@ -57,7 +57,7 @@ This will start the app at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 📌 Project Structure
+## Project Structure
 
 ```
 rag_frontend/
@@ -75,7 +75,7 @@ rag_frontend/
 
 ---
 
-## 🎨 UI/UX Design
+## UI/UX Design
 
 The UI is inspired by modern financial dashboards and incorporates:
 
@@ -85,21 +85,21 @@ The UI is inspired by modern financial dashboards and incorporates:
 
 ---
 
-## 🚦 Roadmap
+## Roadmap
 
-### 🔹 **v1.0 (Current)**
-✅ Chat interface with RAG-powered responses  
-✅ Animated UI with Framer Motion  
-✅ Chat history & session handling  
+### **v1.0 (Current)**
+Chat interface with RAG-powered responses  
+Animated UI with Framer Motion  
+Chat history & session handling  
 
-### 🔹 **Upcoming Features**
-🚀 User Authentication (Login/Signup)  
-🚀 Favorite Chats & Bookmarks  
-🚀 Financial Data Visualization  
+### **Upcoming Features**
+ User Authentication (Login/Signup)  
+Favorite Chats & Bookmarks  
+Financial Data Visualization  
 
 ---
 
-## 💡 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -120,19 +120,18 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
-## 🦸‍♂️ Contributors
-🦸‍♂️ Siddartha Koppaka
-🦸‍♂️ Adithya Singupati
+## Contributors
+Siddartha Koppaka | Adithya Singupati
 
-## 📞 Contact & Support
+## Contact & Support
 
 For any issues, please open an issue or reach out via:  
-📧 **Email:** siddartha.koppaka@gmail.com, aditya.singupati@gmail.com  
+**Email:** siddartha.koppaka@gmail.com, aditya.singupati@gmail.com  
 
 🌟 **If you like this project, please consider giving it a star on GitHub!** 🌟
 
